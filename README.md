@@ -11,4 +11,4 @@ What Is MDD ?
 
 - In this study, ı create MDD calculator
 
-If you wanna see plotly graph, you can reach at this link ; [kaggle](https://www.kaggle.com/code/mirzazer/mdd-calculator]
+If you wanna see plotly graph, you can reach at this link ; [kaggle](https://www.kaggle.com/code/mirzazer/mdd-calculator)
